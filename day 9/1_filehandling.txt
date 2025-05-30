@@ -1,0 +1,2 @@
+Hello world! 
+The file is opened and written and then it is read
